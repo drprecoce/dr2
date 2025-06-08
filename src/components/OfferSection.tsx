@@ -24,7 +24,7 @@ const OfferSection: React.FC = () => {
   return (
     <section className="section-container bg-gray-900 bg-opacity-50">
       <div className="max-w-4xl mx-auto">
-        <h2 className="section-title">Dure mais na cama, e transe 30, 40, 50 minutos sem parar!</h2>
+        <h2 className="section-title">Dure mais na cama e transe 30, 40, 50 minutos sem parar!</h2>
         
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center mb-12">
           <div>
@@ -46,7 +46,7 @@ const OfferSection: React.FC = () => {
               
               <div className="flex items-start">
                 <CheckCircle2 className="text-custom-gold h-6 w-6 mr-3 flex-shrink-0 mt-1" />
-                <p className="text-lg">Posições secretas para Máximo Prazer - faça ela voltar para você  .</p>
+                <p className="text-lg">Guia para conseguir conquistar uma mulher de 22 aninhos  .</p>
               </div>
               
               <div className="flex items-start">
@@ -59,14 +59,14 @@ const OfferSection: React.FC = () => {
           <div className="flex flex-col items-center">
             <div className="w-full bg-custom-black p-8 rounded-lg border border-custom-gold">
               <div className="text-center mb-4">
-                <p className="text-lg mb-2">Oferta especial vai sair do ar em:</p>
+                <p className="text-lg mb-2">Oferta especial. Seja homem, decida agora:</p>
                 <div className="bg-custom-gold text-custom-black py-2 px-4 rounded-lg inline-block">
                   <span className="font-bold text-xl">
                     {String(minutes).padStart(2, '0')}:{String(seconds).padStart(2, '0')}
                   </span>
                 </div>
                 <p className="text-sm mt-2 text-red-500">
-                  ⚠️ O preço aumentará para R$397 quando o tempo acabar!
+                  ⚠️ O preço aumentará para R$397 quando esse tempo acabar!
                 </p>
               </div>
               
