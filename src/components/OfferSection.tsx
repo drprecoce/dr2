@@ -24,7 +24,7 @@ const OfferSection: React.FC = () => {
   return (
     <section className="section-container bg-gray-900 bg-opacity-50">
       <div className="max-w-4xl mx-auto">
-        <h2 className="section-title">Resolva Hoje por Apenas R$27!</h2>
+        <h2 className="section-title">Dure mais na cama, e transe 30, 40, 50 minutos sem parar!</h2>
         
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center mb-12">
           <div>
@@ -46,7 +46,7 @@ const OfferSection: React.FC = () => {
               
               <div className="flex items-start">
                 <CheckCircle2 className="text-custom-gold h-6 w-6 mr-3 flex-shrink-0 mt-1" />
-                <p className="text-lg">Posições para Máximo Prazer - Impressione sua parceira.</p>
+                <p className="text-lg">Posições secretas para Máximo Prazer - faça ela voltar para você  .</p>
               </div>
               
               <div className="flex items-start">
