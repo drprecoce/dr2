@@ -59,7 +59,7 @@ const OfferSection: React.FC = () => {
           <div className="flex flex-col items-center">
             <div className="w-full bg-custom-black p-8 rounded-lg border border-custom-gold">
               <div className="text-center mb-4">
-                <p className="text-lg mb-2">Oferta especial expira em:</p>
+                <p className="text-lg mb-2">Oferta especial vai sair do ar em:</p>
                 <div className="bg-custom-gold text-custom-black py-2 px-4 rounded-lg inline-block">
                   <span className="font-bold text-xl">
                     {String(minutes).padStart(2, '0')}:{String(seconds).padStart(2, '0')}
@@ -82,7 +82,7 @@ const OfferSection: React.FC = () => {
                 </div>
                 <div className="text-center">
                   <p className="font-bold text-lg">Garantia de 30 dias</p>
-                  <p className="text-sm text-gray-300">Se não funcionar, devolvemos seu dinheiro</p>
+                  <p className="text-sm text-gray-300">Se não funcionar na primeira transa, devolvemos seu dinheiro</p>
                 </div>
               </div>
               
@@ -92,11 +92,11 @@ const OfferSection: React.FC = () => {
                 rel="noopener noreferrer" 
                 className="gold-button block text-center"
               >
-                Quero Resolver Meu Problema Agora!
+                Adquirir agora!
               </a>
               
               <p className="text-center text-sm mt-4 text-gray-400">
-                Pagamento 100% seguro e processado pela Ticto
+                Pagamento 100% seguro e acesso imediato
               </p>
             </div>
           </div>
@@ -104,7 +104,7 @@ const OfferSection: React.FC = () => {
         
         <div className="max-w-2xl mx-auto text-center">
           <p className="text-xl mb-6">
-            Você já sofreu demais. Por menos de R$1 por dia, você pode recuperar sua potência e sua vida.
+            Pare de ser um broxa. Por menos de R$1 por dia, você vai recuperar sua potência na cama.
           </p>
           <p className="text-xl font-bold text-custom-gold">
             Não espere mais uma noite de frustração. É agora ou nunca!
