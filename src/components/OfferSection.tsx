@@ -72,7 +72,7 @@ const OfferSection: React.FC = () => {
               
               <div className="text-center mb-6">
                 <p className="text-gray-400 text-lg line-through">De R$397</p>
-                <p className="text-custom-gold text-4xl font-bold">Por R$27</p>
+                <p className="text-custom-gold text-4xl font-bold">Por R$19,90</p>
                 <p className="text-gray-400 text-sm mt-1">Pagamento único</p>
               </div>
               
@@ -87,7 +87,7 @@ const OfferSection: React.FC = () => {
               </div>
               
               <a 
-                href="https://payment.ticto.app/O946E8E76" 
+                href="https://payment.ticto.app/O2FF80A38" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="gold-button block text-center"
