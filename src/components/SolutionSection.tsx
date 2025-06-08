@@ -5,12 +5,12 @@ const SolutionSection: React.FC = () => {
   return (
     <section className="section-container bg-gray-900 bg-opacity-50">
       <div className="max-w-5xl mx-auto">
-        <h2 className="section-title">O Método Dr. Precoce: A Única Solução que Funciona</h2>
+        <h2 className="section-title">O Método Dr. Precoce é o único aplicativo no mundo que vai fazer você transar com 2 mulheres a noite toda</h2>
         
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <p className="text-lg mb-6">
-              Um programa sigiloso, 100% digital, criado para homens como você, que querem resultados reais em 21 dias.
+              Um Método sigiloso, criado para homens como você, que querem potencia em 7 dias.
             </p>
             
             <p className="text-lg mb-6">
@@ -33,7 +33,7 @@ const SolutionSection: React.FC = () => {
                 
                 <div className="flex items-start">
                   <CheckCircle2 className="text-custom-gold h-6 w-6 mr-2 flex-shrink-0 mt-1" />
-                  <p>Sentir orgulho da sua masculinidade novamente.</p>
+                  <p>Conseguir transar 30, 40 minuitos sem opara.</p>
                 </div>
               </div>
             </div>
