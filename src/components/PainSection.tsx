@@ -4,7 +4,7 @@ const PainSection: React.FC = () => {
   return (
     <section id="pain-section" className="section-container bg-opacity-50 bg-gray-900 py-20">
       <div className="max-w-3xl mx-auto">
-        <h2 className="section-title">Você Está Cansado de Se Sentir Menos Homem?</h2>
+        <h2 className="section-title">Você está cansado de depender de azulzinho?</h2>
         
         <div className="bg-black p-8 rounded-lg shadow-lg border border-custom-gold border-opacity-30">
           <div className="space-y-6">
@@ -13,7 +13,7 @@ const PainSection: React.FC = () => {
             </div>
             
             <div className="pain-point">
-              <p className="text-lg md:text-xl">A vergonha de não satisfazer sua parceira, o medo de ser julgado.</p>
+              <p className="text-lg md:text-xl">A vergonha de não satisfazer sua parceira, e ela te trocar por outro mais novo.</p>
             </div>
             
             <div className="pain-point">
@@ -21,7 +21,7 @@ const PainSection: React.FC = () => {
             </div>
             
             <div className="pain-point">
-              <p className="text-lg md:text-xl">A insegurança que destrói sua autoestima e abala seu relacionamento.</p>
+              <p className="text-lg md:text-xl">A insegurança que destrói sua autoestima e abala sua vida sexual.</p>
             </div>
           </div>
           
@@ -29,7 +29,7 @@ const PainSection: React.FC = () => {
             <img 
               src="https://drprecoce.com/wp-content/uploads/2025/05/IMAGEM.webp" 
               alt="Homem frustrado" 
-              className="max-w-full h-auto rounded-lg shadow-xl max-h-[300px] object-cover"
+              className="max-w-full h-auto rounded-lg shadow-xl max-h-[400px] object-cover"
             />
           </div>
         </div>
