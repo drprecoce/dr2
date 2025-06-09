@@ -6,8 +6,8 @@ const HeroSection: React.FC = () => {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
         <div>
           <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
-            <span className="text-white">Transe a noite toda:</span>{' '}
-            <span className="text-custom-gold"> e recupere a sua Potência na cama em apenas 7 Dias!</span>
+            <span className="text-white">Transe a noite toda</span>{' '}
+            <span className="text-custom-gold"> e recupere a sua potência na cama em apenas 7 Dias!</span>
           </h1>
           
           <h2 className="text-xl md:text-2xl mb-8">
